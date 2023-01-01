@@ -1,4 +1,4 @@
-# program-learning
+# PHP - Program - Learning
 This is the first programing test in CDTM
 I learned how to use PHP
 1. Main: index.php
